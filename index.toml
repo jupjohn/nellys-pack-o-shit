@@ -315,6 +315,11 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "345f8339134e463d60972cc4431c7c73171be3728e2332ddda5ed79d59206d63"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "de48a258c99a5bd178148065c7a94b6f64f0f93f1219afd2d1024539c2306aa2"
 metafile = true
