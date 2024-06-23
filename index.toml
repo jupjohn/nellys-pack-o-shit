@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "1d2685e2cdf18f0a0fe57ae1c4bfc4d14ca1a1b924822f5940e1b34434e6ce0e"
+hash = "ccab33cb420e850a0a3003632a2a7bc9e00b07d167d4f8a4c84dc2575611acad"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/quad.pw.toml"
-hash = "b409b351ec5b5c1db0b88014b79d25dbc4eed6e991af9e7105afb6fa53c7b1d4"
+hash = "c8d7cae2d86f1f04696e0a228c988492039969483acfbe9465484a6216154e54"
 metafile = true
 
 [[files]]
