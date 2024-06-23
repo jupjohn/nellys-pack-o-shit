@@ -180,6 +180,11 @@ hash = "5ee4dd82e956e1d7dcfcfcbc067ff313eceedcb4f3d230e7156ec517956e643d"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "4334cce88b247a1420ee2b131ec575a7ed2da11d5e058769a5db5e1608fdbb7d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
@@ -302,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "9718db9faf3f2160cd1fd1eee31bf1ef429df8256c9a7b59f4f62dddb34fe9ae"
 metafile = true
 
 [[files]]
