@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "a776c85853e69b98f668c56992bfe9e89d7b6e5b410600d1a0a07958c05a018e"
+hash = "1fff3035da81c249f2b09d2ff8cb66df62f021c0c1a02aca94a57fdb28a4a648"
 metafile = true
 
 [[files]]
@@ -261,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+hash = "6de363a1d2baf1d4048a838de11353efa39efa396c6a8189a6e5ea368d7e9245"
 metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "e7dc935f3fecd722409969249ab762c1bd53f50e1546c6a0e32732d12aa7f6b3"
+hash = "ecb2d40d3f42a41643ab16f206db9869075d68647d5ecafd3255a5267c997a2f"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "e04427f203ecfd1a5d5bf9847025b1ce1c329be274eafbea1289e8c890b33dc3"
+hash = "757e0dfe9092061c4f1efdfe063b57155d56811ea665617d13c66f8ead57115b"
 metafile = true
 
 [[files]]
