@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TODO.md"
-hash = "d12d074d6ef5f975f89c04b5ff2bf36ca4a772682d704cdfc79cbc6b1f2a5f27"
-
-[[files]]
 file = "config/capes.json5"
 hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
 
