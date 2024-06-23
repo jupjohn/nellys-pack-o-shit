@@ -80,6 +80,11 @@ hash = "0355b81b049cfd99a5329a9c8a9fad50d2a3e2069276c1cfcc3a07eb95cf3b31"
 metafile = true
 
 [[files]]
+file = "mods/cherry-villages.pw.toml"
+hash = "73f694fba0fa922d9fc70c09ec54dc7ab941607c4ec2f99745b8112e304ca568"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
