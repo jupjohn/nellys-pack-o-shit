@@ -255,6 +255,11 @@ hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e7dc935f3fecd722409969249ab762c1bd53f50e1546c6a0e32732d12aa7f6b3"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "55adc4030da5405791915382daa1b9548c2e9e804edb839100c0638043cb1517"
 metafile = true
@@ -312,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "d41261e6e22af0135bc053c5c76ab38100401bbcedcf6fc6019cde5e8cc4280f"
 metafile = true
 
 [[files]]
