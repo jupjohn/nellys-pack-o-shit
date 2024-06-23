@@ -1,0 +1,13 @@
+name = "Macaw's Fences and Walls"
+filename = "mcw-fences-1.1.2-mc1.21fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmwLse2I/versions/wlBMRxdf/mcw-fences-1.1.2-mc1.21fabric.jar"
+hash-format = "sha1"
+hash = "7aab3aa6044464880d33f4c1320cdfbc2446cc80"
+
+[update]
+[update.modrinth]
+mod-id = "GmwLse2I"
+version = "wlBMRxdf"

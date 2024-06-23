@@ -40,6 +40,11 @@ hash = "529f85e7837b766acfd4031d3563d5d96f4d0a83f00dd5328a1b943abda3f8b9"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "332b3dcd4f72c3c122e8201bfbb76a78a329dc4ffe1056bad6096330ba07d765"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "15c2128399c6f09974ca5af95281e1139744a1dfac9f96d0d9ee1002579676cc"
 metafile = true
@@ -55,6 +60,11 @@ hash = "0c89042b16fc34deff8da009ebd4edefe0908f3e83730cc78f0b87a72edf164c"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "88f0a020197fb516f215e798ab688990030b261d76287b7d34ed8ffa8bc7fd2a"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "b1e51f9af034074b66c451573c28d8ea0f929cedec048f3d10e0098e4f43febd"
 metafile = true
@@ -62,6 +72,16 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "df21d4923d61c8d9199e602cca45695b7d17295fa8555f072d8d83045946ef3e"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "1d2685e2cdf18f0a0fe57ae1c4bfc4d14ca1a1b924822f5940e1b34434e6ce0e"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "0355b81b049cfd99a5329a9c8a9fad50d2a3e2069276c1cfcc3a07eb95cf3b31"
 metafile = true
 
 [[files]]
@@ -75,8 +95,23 @@ hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "70a863bf0fed7bda0d92161d63d90c450f7174643edda06ea3eff9d9deb4d6a8"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "a776c85853e69b98f668c56992bfe9e89d7b6e5b410600d1a0a07958c05a018e"
 metafile = true
 
 [[files]]
@@ -135,6 +170,11 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/first-join-message.pw.toml"
+hash = "70b5513c6fc8a8c45f7b9cc9ad3735cc645e778c92ac31c16b1a2c01da74a125"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "5ee4dd82e956e1d7dcfcfcbc067ff313eceedcb4f3d230e7156ec517956e643d"
 metafile = true
@@ -165,6 +205,16 @@ hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "6df8c0db46a0bb0f448617265efcddc2b23e5e9951d09ad1c7f03d1143b52946"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "5beed8b037d1f8a2a5b3cf37b04f369026f88f97765ba7e3b343095c77491e1f"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
 metafile = true
@@ -180,8 +230,28 @@ hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
 metafile = true
 
 [[files]]
+file = "mods/more-chest-variants-lieonlion.pw.toml"
+hash = "433730820f230aea239f0c256b63d009869f802adf0d2e0ff64a0a7244f70ad4"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/philips-ruins.pw.toml"
+hash = "d34c2fed898b8708d4dbff5e9eb2fa3d42091b6e9e4549853ce4d0b898816e74"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ccf59923d389b82accbce021e96be3ef134248ead3fdbf17d1b96e23c38a6d8e"
 metafile = true
 
 [[files]]
@@ -190,8 +260,23 @@ hash = "4ca3c259ede070bacbf8d6192c1745e41a594bc68f16793d72f416bd8437e8e4"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "7b24596738b0e7e329551f1c74c7074936fc986830ce3d46bcf1677024cb791b"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "5b59ab60d978542c01eab57a3d54ccd7ec9e45befc34bbdd63706030dc391df9"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "b409b351ec5b5c1db0b88014b79d25dbc4eed6e991af9e7105afb6fa53c7b1d4"
 metafile = true
 
 [[files]]
@@ -220,6 +305,31 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "de48a258c99a5bd178148065c7a94b6f64f0f93f1219afd2d1024539c2306aa2"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "0fa3c9bfb0e3037a574a6e39356eb1ff1575a92350e9ec948ada50a85fb01248"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "a578bc8dffb522cb404b91a095168529ba3438aae8b106fd014b7b8b965e1167"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "be94397340f28bff0babb5691a8e30b8fb47ca595d6a9c450a3d7f1e3ad4c47d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
