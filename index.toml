@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
+hash = "73c57e25a0df4e1073584a5035a39e210785a821cc8bf539c81058c5dc103532"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
+hash = "4491bc724154747145c79dd157d9c38571cc6c17b08c007d207981ff2d82926f"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "d34c2fed898b8708d4dbff5e9eb2fa3d42091b6e9e4549853ce4d0b898816e74"
+hash = "55adc4030da5405791915382daa1b9548c2e9e804edb839100c0638043cb1517"
 metafile = true
 
 [[files]]
