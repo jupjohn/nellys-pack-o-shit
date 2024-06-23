@@ -295,6 +295,11 @@ hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "e04427f203ecfd1a5d5bf9847025b1ce1c329be274eafbea1289e8c890b33dc3"
 metafile = true
