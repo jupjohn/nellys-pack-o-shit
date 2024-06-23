@@ -5,6 +5,30 @@ file = "config/capes.json5"
 hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "289ad3ba396a1aa47308a7e024a62aaa18c665fb8904818f1eb56f16fcca609d"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "7734e2a035d8076e9f9a2ceeaad7eb9e50b5b645dae54418b9c27abc2b6ad12b"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6e4a1ad878793ab3c3b7df30ea8e4177a65c3632d1b35277683d6f6b333cb073"
 metafile = true
