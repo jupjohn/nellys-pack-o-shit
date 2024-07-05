@@ -1,0 +1,13 @@
+name = "Warp Portals ─ Portal teleportation"
+filename = "warp-portals-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ub1JbeSt/versions/drnSaiMo/warp-portals-1.4.0.jar"
+hash-format = "sha1"
+hash = "b984e2e9c98f78e7e966adbb8643c8a42aba0e41"
+
+[update]
+[update.modrinth]
+mod-id = "Ub1JbeSt"
+version = "drnSaiMo"

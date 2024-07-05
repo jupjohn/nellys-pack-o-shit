@@ -1,0 +1,13 @@
+name = "Minecraft Emote"
+filename = "mcemote-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WSgDkNj1/versions/RMg8KC7d/mcemote-1.1.1.jar"
+hash-format = "sha1"
+hash = "1f82560b84d35fe8d6bda79f034b147d9c2ada1a"
+
+[update]
+[update.modrinth]
+mod-id = "WSgDkNj1"
+version = "RMg8KC7d"
