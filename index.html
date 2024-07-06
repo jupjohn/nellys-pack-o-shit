@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nelly's Modpack Docs</title>
+    <link rel="stylesheet" href="main.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+</head>
+<!-- There's a reason why I do backend these days... -->
+<body>
+<nav>
+    <a href="#installing">Install</a>
+    <a href="#known-issues">Known Issues</a>
+    <a href="https://modrinth.com/modpack/nellys-pack-o-shit">Modrinth</a>
+    <a href="#help">Help</a>
+</nav>
+<main>
+    <p style="margin-left: 3em; margin-bottom: 2em;">
+        <i>I'm too lazy to put together a decent guide, so here's a school-looking-ass website to help :)</i>
+    </p>
+<!--    <hr noshade/>-->
+    <section id="installing">
+        <h2>Installing</h2>
+        <p>
+            The modpack can be installed in any Modrinth-supporting launcher, but I recommend using
+            <a href="https://atlauncher.com/downloads">ATLauncher</a> as it can both update private Modrinth packs, and
+            manage your Java installation - so it's less work for you!
+        </p>
+        <h3>Steps</h3>
+        <ol>
+            <li>Download the <a href="https://atlauncher.com/downloads">ATLauncher</a></li>
+            <li>Login with your Minecraft account</li>
+            <li>Navigate to the <i>Packs</i> tab</li>
+            <li>Click on "<i>Modrinth</i>" on the left-hand side</li>
+            <li>Click on "<i>Add Manually</i>" and enter the pack's ID <code>XXIblqAD</code></li>
+            <li>Your pack should now be installed under the <strong>Instances</strong> tab!</li>
+            <li><strong>Read the post-installation steps below!!!</strong></li>
+        </ol>
+        <img src="./assets/atlauncher-install-steps.png" alt="visual guide to install the modpack via the atlauncher program"/>
+        <h3>Post-installation steps:</h3>
+        <ul>
+            <li>It's recommended to increase the amount of RAM allocated to the pack to ~6GiB, which you can do by opening the instance's settings and changing the <i>Maximum Memory</i> value to <code>6144</code>. Don't do anything higher than 10GiB</li>
+            <li>
+                If you want to get relatively consistent performance out of your game, consider adding these JVM flags in your instance's settings:
+                <br/>
+                <code class="big">
+                    -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:AllocatePrefetchStyle=3  -XX:+UseG1GC -XX:MaxGCPauseMillis=37 -XX:+PerfDisableSharedMem -XX:G1HeapRegionSize=16M -XX:G1NewSizePercent=23 -XX:G1ReservePercent=20 -XX:SurvivorRatio=32 -XX:G1MixedGCCountTarget=3 -XX:G1HeapWastePercent=20 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:MaxTenuringThreshold=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5.0 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -XX:GCTimeRatio=99 -XX:+UseLargePages -XX:LargePageSizeInBytes=2m
+                </code>
+            </li>
+        </ul>
+    </section>
+    <hr noshade/>
+    <section id="known-issues">
+        <h2>Known Issues</h2>
+        <ul>
+            <li>Zooming with <code>C</code> doesn't seem to work. Haven't bothered to look into it</li>
+        </ul>
+    </section>
+    <hr noshade/>
+    <section id="help">
+        <h2>Help</h2>
+        <h3>Improving performance:</h3>
+        <p>
+            There are a lot of mods in this pack, which may take a toll on your hardware. If you're struggling to get decent frames out of the game, try the following:
+        </p>
+        <ul>
+            <li>Reduce your render distance</li>
+            <li>If you're lagging during rain, disable features of Psection Rain in the mod menu</li>
+            <li>If you're having very specific issues (mods crashing etc.), reach out to me directly</li>
+        </ul>
+    </section>
+</main>
+</body>
+</html>
