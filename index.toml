@@ -1,8 +1,44 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bobby.conf"
+hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
+
+[[files]]
 file = "config/capes.json5"
 hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
+
+[[files]]
+file = "config/connectiblechains.toml"
+hash = "8d30d5ed54151e6b51af3f8549145a4cd68a4b5ef2ff4dae1dea8f0a4d03f3fb"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "54986f5a9e2c28efb0dd7569c7f956c85f6d7ae6bfe319d375dfeee17edf13e1"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "eb051b709859f6e774c1055d38b39ab50395353218960b66eec867d5c6ff46a5"
+
+[[files]]
+file = "config/mcemote.json"
+hash = "8f8ea9073745e09255f138db54ed93c743849cc016ff3a4368b2153cdd1e87a0"
+
+[[files]]
+file = "config/plasmovoice/client.toml"
+hash = "5959bca76f27c63310b17cf6a0d6faa4f7bab7a0821f5e6adfd059d00e46a2ca"
+
+[[files]]
+file = "config/rightclickharvest.json5"
+hash = "ed6d9df16ddb465a6a16c6d46d13b7c4ac1ad28dee9f2324f245ff97bbb9e50e"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "5768ed7f70e5c948d514378bac00ebc7844af75172e2132ea24da41f5bf66beb"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "647f7820f0bdb6d1816990036842161668511a9e4e02865430e7ff7f925b7c9c"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -27,6 +63,10 @@ hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "55a93314139715580f52b66f7d14664537862c5e8313599c6dc656268ce37e2b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -527,3 +567,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c9435679b7ef15534259a98c8db497fcfdeed7a01e0c85be389dd1d84236af58"
+
+[[files]]
+file = "servers.dat"
+hash = "e2ddb0c44d9cf5cb10e079872a546fc70dee1a99d5018cf2364b47a3b2c3fa91"
