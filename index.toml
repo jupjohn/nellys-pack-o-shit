@@ -374,11 +374,6 @@ hash = "55adc4030da5405791915382daa1b9548c2e9e804edb839100c0638043cb1517"
 metafile = true
 
 [[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "781785be99ffe5813b699c6dd1ea1193f866cfe35930244ae57e3d6c163aace1"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "25a375451c4b12c4a0f40bd4dee9770b6489f5231c48b9b3ba08e3b95ada7023"
 metafile = true
