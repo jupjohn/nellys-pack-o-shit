@@ -6,6 +6,10 @@ html {
     background-color: rgb(240, 240, 240);
 }
 
+body {
+    margin: 0 !important;
+}
+
 nav {
     margin-top: 10em;
     margin-bottom: 10em;
