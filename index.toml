@@ -404,6 +404,16 @@ hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "5e6b572e61b65e964baebd2c234ce439241b30517cf8765df4c6204cc1125077"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-spectator.pw.toml"
+hash = "19b110842a352c516d78650d5440d2eae4abf456f2041cc5c586656de95fb0dd"
+metafile = true
+
+[[files]]
 file = "mods/quad.pw.toml"
 hash = "c8d7cae2d86f1f04696e0a228c988492039969483acfbe9465484a6216154e54"
 metafile = true
