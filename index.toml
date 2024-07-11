@@ -554,6 +554,11 @@ hash = "4be2672be0847b117bfb0b79642f95f15e14fe20444530455aab53fa14c78c8c"
 metafile = true
 
 [[files]]
+file = "mods/restore-chat-links.pw.toml"
+hash = "8160d85daf2d654ccb1e9e7fbed96b54392b094e29f87e419cc7141449b9fca8"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "b3fa4641182587001a14bf8c038505ff774eccfdbd59be3ea03390b253395c21"
 metafile = true
