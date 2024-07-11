@@ -1,13 +1,13 @@
 name = "Beautify: Refabricated"
-filename = "beautify-1.2.0+1.21.jar"
+filename = "beautify-1.2.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/IxYi4D1k/beautify-1.2.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/tHOYXwOR/beautify-1.2.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "e440e4489b8d656f6c97f46cdef843478b1082c0"
+hash = "87c86bc69f31729581259621cc4f3ed1f55476af"
 
 [update]
 [update.modrinth]
 mod-id = "DhSSvaxs"
-version = "IxYi4D1k"
+version = "tHOYXwOR"
