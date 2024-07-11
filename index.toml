@@ -579,6 +579,11 @@ hash = "d41261e6e22af0135bc053c5c76ab38100401bbcedcf6fc6019cde5e8cc4280f"
 metafile = true
 
 [[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "622bfc94f8d11134a5dcdb9b2e31a30963be56917479053ba1f94cb04320807a"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e47721f3247e54695165ea8bc148ed54c1d66f280fae784a6b05528582917cdb"
 metafile = true
