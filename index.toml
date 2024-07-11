@@ -94,6 +94,11 @@ hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "0d8ef9622d79bb6da1290c564b11800992ea360cfaaa02783ddf0f687739a90c"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
@@ -169,6 +174,11 @@ hash = "5d62ccda523b9d4200d661c090fdc6bb18f6b2daabc232ab72ad7a137cbbba43"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "75af8b7e37f8776a983b9bbbeb49a0183e37911a0aa01a8ee0825bdbe1b9ec6c"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -239,8 +249,18 @@ hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
 metafile = true
 
 [[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "1b185746c792a4f3efd94f8079c210c514fc4d0e748e1a65631de54c2284f09f"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "2362f0d0bc9c31ff7bf6a0ddab29cf4122f8c381610c8da5e19fa4b6ab7c1b44"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "46062f6345737311605e25d6fee33fea740df7a59ea8c358c9037f80ce99c109"
 metafile = true
 
 [[files]]
@@ -371,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
 hash = "3d2d8e1e094cc092fc6fd9784846bcd26f3e3236027eccc8a10314d1145c0622"
+metafile = true
+
+[[files]]
+file = "mods/more-composter-variants.pw.toml"
+hash = "0cb96494c01f6ae7f96dc08a49bcac05fe7a6faf99a9ec359a081593cc188871"
 metafile = true
 
 [[files]]

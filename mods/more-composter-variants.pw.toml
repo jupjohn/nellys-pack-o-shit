@@ -1,0 +1,13 @@
+name = "More Composter Variants"
+filename = "MoreComposterVariants-1.5.6+1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vDjDgFj7/versions/sC2VuSf2/MoreComposterVariants-1.5.6%2B1.21-Fabric.jar"
+hash-format = "sha1"
+hash = "0f60f842aa6bf13c8ed301cad4c2b794c92a710d"
+
+[update]
+[update.modrinth]
+mod-id = "vDjDgFj7"
+version = "sC2VuSf2"
