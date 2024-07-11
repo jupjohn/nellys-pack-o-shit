@@ -124,6 +124,11 @@ hash = "362abea0e6f80016849b50522d9ec4c5b622191543e62eb2aff8b4f083f07636"
 metafile = true
 
 [[files]]
+file = "mods/better-babies.pw.toml"
+hash = "17ceb8cdc7a6bb06fe3ad8c61b845b13520c73e538fa67aa4b9872f7e55bd4a3"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "5309c13521cd3781aed216c44ab66f87a08eaf10d891fdce05bb7e045f59ea8c"
 metafile = true
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/danger-close.pw.toml"
 hash = "3628d41fc1ffb7f29b13a1a8db3a6818e258605f7ceed059e56d5bb019078ce2"
+metafile = true
+
+[[files]]
+file = "mods/developer-resources.pw.toml"
+hash = "5439dd26c06ec6413eb1b8692caca5f9e03a0c5a6789cd865a70055d953299c3"
 metafile = true
 
 [[files]]
