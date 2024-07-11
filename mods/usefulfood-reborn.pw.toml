@@ -1,0 +1,13 @@
+name = "UsefulFood Reborn"
+filename = "UsefulFood_Reborn-1.2.2-1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VafD51Dc/versions/b9zF89o7/UsefulFood_Reborn-1.2.2-1.21-Fabric.jar"
+hash-format = "sha1"
+hash = "5895fee36b6e27cdf9256e26ebcfc80656750e24"
+
+[update]
+[update.modrinth]
+mod-id = "VafD51Dc"
+version = "b9zF89o7"

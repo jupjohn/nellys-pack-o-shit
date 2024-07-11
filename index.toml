@@ -74,6 +74,11 @@ hash = "6e4a1ad878793ab3c3b7df30ea8e4177a65c3632d1b35277683d6f6b333cb073"
 metafile = true
 
 [[files]]
+file = "mods/a-cute-little-crock-pot.pw.toml"
+hash = "2ae591a2daf475b470f339f88d1ff43dde2f8830d0ef49cfdf757feeb089b82a"
+metafile = true
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "793d1432cc5270f81c27b9681db48b4702418a35db6eaa25d174e87056fe1e96"
 metafile = true
@@ -201,6 +206,16 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
+metafile = true
+
+[[files]]
+file = "mods/cooked-carrots.pw.toml"
+hash = "9b297fec1103d24609c17ba19bf939cc6ab24366894000bc07677d2446895f18"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "4a3e9e8dc22c806385c44ddab78f62c434e7d8c0fd66bc8eda4b63c8d68ff8ad"
 metafile = true
 
 [[files]]
@@ -389,6 +404,11 @@ hash = "38b88975badb5b2a35fb75fba7bf6251e81617b1f41710e626b4003b2e10dadb"
 metafile = true
 
 [[files]]
+file = "mods/more-cakes.pw.toml"
+hash = "bbfc05ab8a1a72e935a37f7ae320392b99c994016a49a5d5653452a52a01aa11"
+metafile = true
+
+[[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
 hash = "3d2d8e1e094cc092fc6fd9784846bcd26f3e3236027eccc8a10314d1145c0622"
 metafile = true
@@ -551,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "fb1c5352df2145a38c0bbf9bd77d0c94a3a0fc34ed9f4ef9fe6728e5c4cdba59"
+metafile = true
+
+[[files]]
+file = "mods/usefulfood-reborn.pw.toml"
+hash = "471e69bd32da9e5fedc010be51585150103f51aea5a5a422e44322e19edd76eb"
 metafile = true
 
 [[files]]
