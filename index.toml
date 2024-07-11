@@ -334,6 +334,11 @@ hash = "4334cce88b247a1420ee2b131ec575a7ed2da11d5e058769a5db5e1608fdbb7d"
 metafile = true
 
 [[files]]
+file = "mods/hookaduck.pw.toml"
+hash = "77a8c9842f8c99c3a0e9e2f9872e518195283213df022537d266dedd0ebc226e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
@@ -566,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "db6e95a9079b0d06af65c2a29af6a6004ba72e8f4d008457ba45bc90a70ff8a3"
+metafile = true
+
+[[files]]
+file = "mods/terrific-tickets.pw.toml"
+hash = "efcb120c6e66d226217ecaee7f156c78de7382cdad962bd9552270d449c29c9a"
 metafile = true
 
 [[files]]
