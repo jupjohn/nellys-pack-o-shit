@@ -544,6 +544,11 @@ hash = "95042d1760df8b07bde017e4c5e61f0075ac606babc4155c763890fa0df4e534"
 metafile = true
 
 [[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "b5d6af7cec0d652cf4649da92aea2259f06054269685aa37807884b12f06b84b"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "c094ede18ebc373e67a3cd70afa07ede4cd5e21dc1194bc4f0483fb186b5a09b"
 metafile = true
