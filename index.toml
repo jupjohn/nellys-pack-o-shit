@@ -599,6 +599,11 @@ hash = "db6e95a9079b0d06af65c2a29af6a6004ba72e8f4d008457ba45bc90a70ff8a3"
 metafile = true
 
 [[files]]
+file = "mods/terrific-tickets.pw.toml"
+hash = "efcb120c6e66d226217ecaee7f156c78de7382cdad962bd9552270d449c29c9a"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "fb1c5352df2145a38c0bbf9bd77d0c94a3a0fc34ed9f4ef9fe6728e5c4cdba59"
 metafile = true
