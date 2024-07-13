@@ -124,11 +124,6 @@ hash = "362abea0e6f80016849b50522d9ec4c5b622191543e62eb2aff8b4f083f07636"
 metafile = true
 
 [[files]]
-file = "mods/better-babies.pw.toml"
-hash = "17ceb8cdc7a6bb06fe3ad8c61b845b13520c73e538fa67aa4b9872f7e55bd4a3"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "5309c13521cd3781aed216c44ab66f87a08eaf10d891fdce05bb7e045f59ea8c"
 metafile = true
@@ -604,11 +599,6 @@ hash = "db6e95a9079b0d06af65c2a29af6a6004ba72e8f4d008457ba45bc90a70ff8a3"
 metafile = true
 
 [[files]]
-file = "mods/terrific-tickets.pw.toml"
-hash = "efcb120c6e66d226217ecaee7f156c78de7382cdad962bd9552270d449c29c9a"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "fb1c5352df2145a38c0bbf9bd77d0c94a3a0fc34ed9f4ef9fe6728e5c4cdba59"
 metafile = true
@@ -631,11 +621,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "95042d1760df8b07bde017e4c5e61f0075ac606babc4155c763890fa0df4e534"
-metafile = true
-
-[[files]]
-file = "mods/where-is-it.pw.toml"
-hash = "b5d6af7cec0d652cf4649da92aea2259f06054269685aa37807884b12f06b84b"
 metafile = true
 
 [[files]]
