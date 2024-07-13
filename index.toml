@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "76e2e71fa71901cd1bf6875a5a4ceae9c81d53e18b3da82c5c011bfdaecacf4a"
+hash = "5b22c7bb3ecd93b5ed027aee1961da93c3ea2e723e4a9369944ca1c1a633647b"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
