@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "947c63ea5ef39acffd205eb16ff3f92f09cca88503def799ab4f814b3de9e46f"
+hash = "8dff71c2fa97a7846c565c934ff5034655343dde1032d1aa379dcfce6df27915"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/danger-close.pw.toml"
-hash = "3628d41fc1ffb7f29b13a1a8db3a6818e258605f7ceed059e56d5bb019078ce2"
+hash = "9129a3ac2139bc4692f06fd683840bc3178d3fb209eb045b4db776fa758e41ce"
 metafile = true
 
 [[files]]
@@ -280,12 +280,12 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "46062f6345737311605e25d6fee33fea740df7a59ea8c358c9037f80ce99c109"
+hash = "ab793dcc4ff325c047f2e09c68af5fd1d2c3665d46152bc313477f544e6e7853"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/hookaduck.pw.toml"
-hash = "77a8c9842f8c99c3a0e9e2f9872e518195283213df022537d266dedd0ebc226e"
+hash = "1c63040e02bb7009feb0dc9cc1cfe5d2699c9136214a6a8978078e72f1fd1196"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "25a375451c4b12c4a0f40bd4dee9770b6489f5231c48b9b3ba08e3b95ada7023"
+hash = "76b74629777eaf0cfa262290cd1fa108b8e0a63f14c15eb94af008d78ba50f09"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
