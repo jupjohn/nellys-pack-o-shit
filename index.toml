@@ -359,6 +359,11 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
+file = "mods/jakes-build-tools.pw.toml"
+hash = "6b934876a168e11ddf0f7dee155b308b5218b1a451e2347eefc2958744d29840"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
 metafile = true
