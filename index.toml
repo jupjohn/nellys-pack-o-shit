@@ -489,8 +489,23 @@ hash = "38b88975badb5b2a35fb75fba7bf6251e81617b1f41710e626b4003b2e10dadb"
 metafile = true
 
 [[files]]
+file = "mods/more-barrel-variants.pw.toml"
+hash = "b3810b7f1dde91f0d679d07a7c7dcc08e1beb3cc5b0ca40ee47440f1424dc005"
+metafile = true
+
+[[files]]
+file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
+hash = "13896a020af91359f2dfc9571ebbf7238e01525d0b864ba5b0d2ae0d02ed2a59"
+metafile = true
+
+[[files]]
 file = "mods/more-cakes.pw.toml"
 hash = "bbfc05ab8a1a72e935a37f7ae320392b99c994016a49a5d5653452a52a01aa11"
+metafile = true
+
+[[files]]
+file = "mods/more-cartography-tables.pw.toml"
+hash = "3bc40610dbf88d0c63982027971b226892d5994c879978add24558aa644dc11c"
 metafile = true
 
 [[files]]
@@ -499,8 +514,38 @@ hash = "3d2d8e1e094cc092fc6fd9784846bcd26f3e3236027eccc8a10314d1145c0622"
 metafile = true
 
 [[files]]
+file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+hash = "7163d8f5e3331f8c7777ebb0c3184001286d861487eb8acd94811070dc4e8bdf"
+metafile = true
+
+[[files]]
 file = "mods/more-composter-variants.pw.toml"
 hash = "0cb96494c01f6ae7f96dc08a49bcac05fe7a6faf99a9ec359a081593cc188871"
+metafile = true
+
+[[files]]
+file = "mods/more-crafting-tables-lieonlion.pw.toml"
+hash = "23e033a0d3ff8a30dc950d299a992be8f477d7d8cded01d808d1bb0a839c9999"
+metafile = true
+
+[[files]]
+file = "mods/more-fletching-tables.pw.toml"
+hash = "c4ab1a4703a01a5bf082ba173c4569dc5ce2aa17fc6dea2fc902291f94516cca"
+metafile = true
+
+[[files]]
+file = "mods/more-furnace-variants-lieonlion.pw.toml"
+hash = "3e79610175cc8e9a6bcc180ec50ba284f1f081730f85b76da4f895400804a1fe"
+metafile = true
+
+[[files]]
+file = "mods/more-grindstone-variants.pw.toml"
+hash = "aaa3fd83ebea7dfd3970b30b65d9be1a398aeb735975cb69f131a1204b4fdca9"
+metafile = true
+
+[[files]]
+file = "mods/more-lectern-variants.pw.toml"
+hash = "65a2ffa1605fefabdf66fb2209c87057d40cbc4d9cbbfc29029f6a6687ab94fb"
 metafile = true
 
 [[files]]
