@@ -354,6 +354,11 @@ hash = "4def8e4f66bb4b0b526d451e032282195c88d3dc8f623138e79716876f60700f"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "0cbe0af05dbc18f8a45611d3f87d5c9a8d7c545f9e0422031021e54674bf421c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "07312ad2b193c1a5349500cd30e3db2125644a28b1adaf8fcda82016405c8b32"
 metafile = true
@@ -606,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "59653808f0dfe6e0ba4bcfecfad30470337a8ed46c18a58f969d06eccdd22db9"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "a9552d1bbb7be32adaf82b6267978d98dcb2f95615aaf552a2bac4c4bcf96b88"
 metafile = true
 
 [[files]]
