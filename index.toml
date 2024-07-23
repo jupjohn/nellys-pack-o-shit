@@ -629,6 +629,11 @@ hash = "fb1c5352df2145a38c0bbf9bd77d0c94a3a0fc34ed9f4ef9fe6728e5c4cdba59"
 metafile = true
 
 [[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "4872548b51e9c589f3d2710901f8403979101a19c79e48719968e0b634e9ec94"
+metafile = true
+
+[[files]]
 file = "mods/usefulfood-reborn.pw.toml"
 hash = "471e69bd32da9e5fedc010be51585150103f51aea5a5a422e44322e19edd76eb"
 metafile = true
