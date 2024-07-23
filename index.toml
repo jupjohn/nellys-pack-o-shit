@@ -319,6 +319,11 @@ hash = "70b5513c6fc8a8c45f7b9cc9ad3735cc645e778c92ac31c16b1a2c01da74a125"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "10abfd16e1d823f58348dbc02a3ac241b5dbf0abeecf9002bf9e73bb1a8d36f0"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "07312ad2b193c1a5349500cd30e3db2125644a28b1adaf8fcda82016405c8b32"
 metafile = true
@@ -466,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "8a822f39484237a5a79b62168726ecdbcad6c4a3ea8597b03a5a090b56bd9739"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "59653808f0dfe6e0ba4bcfecfad30470337a8ed46c18a58f969d06eccdd22db9"
 metafile = true
 
 [[files]]
