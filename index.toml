@@ -339,6 +339,11 @@ hash = "10abfd16e1d823f58348dbc02a3ac241b5dbf0abeecf9002bf9e73bb1a8d36f0"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+hash = "4def8e4f66bb4b0b526d451e032282195c88d3dc8f623138e79716876f60700f"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "07312ad2b193c1a5349500cd30e3db2125644a28b1adaf8fcda82016405c8b32"
 metafile = true
