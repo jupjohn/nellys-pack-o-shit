@@ -384,6 +384,11 @@ hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "d375db26ce2e80c060643172b40659e48c0128f7efa4f359d1fa9864f57f32e6"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
