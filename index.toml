@@ -104,6 +104,11 @@ hash = "3fc955231e6029c4d090e67565796aff1c2186c407d721a4aa24ca732bf253d7"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "dfa1ad43b1b1b1543c5fe2c83c1ad4fae45ae05d7467cdcce5a51a0802dc71a0"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
@@ -396,6 +401,16 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "5beed8b037d1f8a2a5b3cf37b04f369026f88f97765ba7e3b343095c77491e1f"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "a8a85502fa1fce4c0473276479fe1a3598114f7cd7516e60931920177248082a"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "75990ee8fe4f4b5e72631c49e6c0d58fe05244288ff94ca377fea80dcfb9a216"
 metafile = true
 
 [[files]]
