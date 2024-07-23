@@ -479,6 +479,11 @@ hash = "db0a727d69349c394ad202ba4062248361851f90c28ce5b0813443180c7197ff"
 metafile = true
 
 [[files]]
+file = "mods/no-animal-tempt-delay.pw.toml"
+hash = "731b4a69a228fca528e09156d8abbf75b7f525cc949811f6deca3ccfb8956824"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true

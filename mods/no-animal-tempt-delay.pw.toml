@@ -1,0 +1,13 @@
+name = "No Animal Tempt Delay"
+filename = "noanimaltemptdelay-1.21.0-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7YM5AXYm/versions/AmIvKEeO/noanimaltemptdelay-1.21.0-1.1.jar"
+hash-format = "sha1"
+hash = "6b48433876315769c5834e3c20358d564ec031e0"
+
+[update]
+[update.modrinth]
+mod-id = "7YM5AXYm"
+version = "AmIvKEeO"
