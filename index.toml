@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "ccab33cb420e850a0a3003632a2a7bc9e00b07d167d4f8a4c84dc2575611acad"
+hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
@@ -225,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/danger-close.pw.toml"
-hash = "9129a3ac2139bc4692f06fd683840bc3178d3fb209eb045b4db776fa758e41ce"
+hash = "783bf48100d173829071ef1e3c5a12c562a3776e73d09e6d3ec9939ae092ec96"
 metafile = true
 
 [[files]]
 file = "mods/developer-resources.pw.toml"
-hash = "5439dd26c06ec6413eb1b8692caca5f9e03a0c5a6789cd865a70055d953299c3"
+hash = "c3cf4a16f13fcd49a85a33fdacf0a3c9f501aa18ee6764fc46b0c454dc9fbb85"
 metafile = true
 
 [[files]]
@@ -320,12 +320,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "39c4f5bf40f5caa80717972f6ba98bbbe404267031cdd268a3a7354568dcb305"
+hash = "07312ad2b193c1a5349500cd30e3db2125644a28b1adaf8fcda82016405c8b32"
 metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "71dd11e6e6ba5272307a423e552ee9f7d5406d9846ef2b29f842056072964778"
+hash = "fa3165def5e71120d9f07352441e2ae75c30f5aeb67d129acf40b72ebecfd179"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/jakes-build-tools.pw.toml"
-hash = "6b934876a168e11ddf0f7dee155b308b5218b1a451e2347eefc2958744d29840"
+hash = "cc42078da9cd769f3d04c07f67f06dd44f5ca51e6f3657e88c8e62e4a6f1f1a8"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b4bfff726f0e2a2d9d4bc58e3a75ad3197c053264e8b0f474ac87e53fe9cfab7"
+hash = "b947b56e9279adb7058832f2dc45d6f2e14fe616f61a836cd4966b58633f113d"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "583cab310fa9e1162e9ac9f22172df75fa3d3ff7011285117a0cf36c0221e961"
+hash = "9044978b9866d4cd1a1b5f5f5cf4b3458642213fb69d238ffa2812af4d0e7f3b"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "f739e96004da1970a66c21903cf43c3f4dfa400b59a91a6cf40a82671100d529"
+hash = "1611a1cf0f9a0c91382395817956461418be1c58f4bb0d9032370213a49d258b"
 metafile = true
 
 [[files]]
