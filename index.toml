@@ -509,6 +509,11 @@ hash = "db0a727d69349c394ad202ba4062248361851f90c28ce5b0813443180c7197ff"
 metafile = true
 
 [[files]]
+file = "mods/nice-mobs-remastered.pw.toml"
+hash = "83bb60c1560bf187606b9ec68b8af68f20db271b7a1d6b3edd97735b9ce615f3"
+metafile = true
+
+[[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "731b4a69a228fca528e09156d8abbf75b7f525cc949811f6deca3ccfb8956824"
 metafile = true
