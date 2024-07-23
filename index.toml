@@ -604,6 +604,11 @@ hash = "26e29d3e4c214d26dbf7d3f6265b69cf814c5df6c67ca8b714c20a30561817d8"
 metafile = true
 
 [[files]]
+file = "mods/scorched.pw.toml"
+hash = "7589944050f89020db9966f930798db969337a9e83940d71d2af43e6d810561d"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true
