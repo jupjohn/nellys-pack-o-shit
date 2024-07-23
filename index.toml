@@ -758,5 +758,10 @@ file = "options.txt"
 hash = "c9435679b7ef15534259a98c8db497fcfdeed7a01e0c85be389dd1d84236af58"
 
 [[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "96c0db2b8aacc7a0f7fded0ce0dedb6fb98ed359a857cc09768fed90bec2916e"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "e2ddb0c44d9cf5cb10e079872a546fc70dee1a99d5018cf2364b47a3b2c3fa91"
