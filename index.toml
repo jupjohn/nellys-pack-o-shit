@@ -129,6 +129,11 @@ hash = "5b22c7bb3ecd93b5ed027aee1961da93c3ea2e723e4a9369944ca1c1a633647b"
 metafile = true
 
 [[files]]
+file = "mods/bamboo-everything.pw.toml"
+hash = "4ebac7581d5216b36999b40d976f60bc6577c48d57322a97c582d56ca8f0bf64"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "362abea0e6f80016849b50522d9ec4c5b622191543e62eb2aff8b4f083f07636"
 metafile = true
