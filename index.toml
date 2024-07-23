@@ -639,6 +639,11 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "c748c44c0beeb3e69bfe59de6f0b1915e1ba8f18efdadbebcca550db060bd7ce"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "db6e95a9079b0d06af65c2a29af6a6004ba72e8f4d008457ba45bc90a70ff8a3"
 metafile = true
