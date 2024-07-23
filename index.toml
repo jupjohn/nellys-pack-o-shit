@@ -84,6 +84,11 @@ hash = "793d1432cc5270f81c27b9681db48b4702418a35db6eaa25d174e87056fe1e96"
 metafile = true
 
 [[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "0c077ef65dfa3f4c0448bfdb701074026ceec72185ee75d5ad2636b37c8c18a1"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
