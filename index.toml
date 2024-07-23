@@ -254,6 +254,11 @@ hash = "1fff3035da81c249f2b09d2ff8cb66df62f021c0c1a02aca94a57fdb28a4a648"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "a1972b84d4540528439f4dbd74a38140ab3517314e107e9e8730d653d7a87a82"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
 metafile = true
