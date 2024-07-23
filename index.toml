@@ -719,6 +719,11 @@ hash = "d41261e6e22af0135bc053c5c76ab38100401bbcedcf6fc6019cde5e8cc4280f"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2d868b98d488238e0dddd52b150a6578e8476eb7bcf107c5ab25096741112f05"
+metafile = true
+
+[[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "622bfc94f8d11134a5dcdb9b2e31a30963be56917479053ba1f94cb04320807a"
 metafile = true
@@ -746,6 +751,11 @@ metafile = true
 [[files]]
 file = "mods/terrific-tickets.pw.toml"
 hash = "f7165934ea23b73f02036a49b67280244ef0ea0fe7804db1279e12a05d4db9ac"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "bb544f8bebdf2ad9ee4f799f2a59c90cd07219578a47499ee60c02752d70cfcf"
 metafile = true
 
 [[files]]
