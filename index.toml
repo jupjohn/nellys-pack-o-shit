@@ -219,6 +219,11 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "908f1d941779c0a7eaa8d11b60e5cdfcf4c95547bc3b27a8bfef5b67021b65a2"
+metafile = true
+
+[[files]]
 file = "mods/cooked-carrots.pw.toml"
 hash = "9b297fec1103d24609c17ba19bf939cc6ab24366894000bc07677d2446895f18"
 metafile = true
