@@ -499,6 +499,11 @@ hash = "2a75034fcdab2193d59eb05af9bfc02423b56c1972e393284ad3a8c6cd125e2f"
 metafile = true
 
 [[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "6e42e7ebf112efca2449339bb90a08036f827bc2c351a064e181cec65b9453a9"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
 metafile = true
