@@ -754,6 +754,11 @@ hash = "766ba910db4aae764c94d863a1d0e85d25d2c0a4b521059d98de2f19e306cc20"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "56b3bd69605b46fb85f6133bd800c16ab3a626bea70131278fde376642fc067f"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "d41261e6e22af0135bc053c5c76ab38100401bbcedcf6fc6019cde5e8cc4280f"
 metafile = true
