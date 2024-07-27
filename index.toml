@@ -819,6 +819,11 @@ hash = "4bae8cba98f47061cdf1836e5b53bde3dc23460ecb3082fc4f9bdd04e20b54e4"
 metafile = true
 
 [[files]]
+file = "mods/wakes.pw.toml"
+hash = "068f68e40d616ecbf80be781998dffba710616b5aefdaed013be79a53f13c50d"
+metafile = true
+
+[[files]]
 file = "mods/warp-portals.pw.toml"
 hash = "efc939c90f9b46338225e91678a505ebb421857a7184648b4623fb107d50e86b"
 metafile = true
