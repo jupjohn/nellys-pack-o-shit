@@ -1,13 +1,13 @@
 name = "Nice Mobs Remastered: Friends & Foes"
-filename = "nice-mobs-remastered-2.3b.jar"
+filename = "nice-mobs-remastered-2.3c.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hxerjRLt/versions/R8haCxlT/nice-mobs-remastered-2.3b.jar"
+url = "https://cdn.modrinth.com/data/hxerjRLt/versions/iahvShg3/nice-mobs-remastered-2.3c.jar"
 hash-format = "sha1"
-hash = "a1ff16c3fc4e697fe4f2b048be5d74d1616924cb"
+hash = "ec47c06d39e4043aae60910b08e3d287564c3ee1"
 
 [update]
 [update.modrinth]
 mod-id = "hxerjRLt"
-version = "R8haCxlT"
+version = "iahvShg3"

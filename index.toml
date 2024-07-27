@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8dff71c2fa97a7846c565c934ff5034655343dde1032d1aa379dcfce6df27915"
+hash = "66de4887711dd677ddf73c852857f7a3c5cb26c4eccec0e0fba2f79ff3a725aa"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
+hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "10abfd16e1d823f58348dbc02a3ac241b5dbf0abeecf9002bf9e73bb1a8d36f0"
+hash = "7915c02a4b5e846b8d0390857078e6d9fce8980b62416fb314fafee4ef8345d0"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightweight-inventory-sorting.pw.toml"
-hash = "0e8e4896c36554328f4f64dcfd100fdd0a641f61b55f554183d0e20c1c3b2552"
+hash = "e93f0a28ee45bcac0650992d030c202949fe92e85e9f6d2223e2580bee267754"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-barrel-variants.pw.toml"
-hash = "b3810b7f1dde91f0d679d07a7c7dcc08e1beb3cc5b0ca40ee47440f1424dc005"
+hash = "abd5020c94e68197ee9ddedf0fab91a42c79c0231e505033b702b7a06e3fa587"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-chiseled-bookshelf-variants.pw.toml"
-hash = "7163d8f5e3331f8c7777ebb0c3184001286d861487eb8acd94811070dc4e8bdf"
+hash = "dae23bf7a123e06c73ce99af498320377efb6db6e2c88848fb19e32b46bf6fc0"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/nice-mobs-remastered.pw.toml"
-hash = "83bb60c1560bf187606b9ec68b8af68f20db271b7a1d6b3edd97735b9ce615f3"
+hash = "3bc5aecb3045926431dad330465ead01661d7e04db7b7728994fcd2c9182388c"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "59653808f0dfe6e0ba4bcfecfad30470337a8ed46c18a58f969d06eccdd22db9"
+hash = "3ce38dadc07ecf0f4c3e9f73880dcd3ec2a83a92a24d4a6d9faef6d50eea28a2"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "1e8332d91fa316333b782897319f8dee4d03eaed38d08d9f57f50c4b4301a6e8"
+hash = "1092ad10e827731147bc37ea468aaea99492970358d61b793f53406e0008f212"
 metafile = true
 
 [[files]]
@@ -650,12 +650,12 @@ metafile = true
 
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
-hash = "7a1962ac4a78b5a8527fc442baeb99c90a3058aeb27ef712e42dd757282d3ee4"
+hash = "e874848b5a9a25e2a424968ae677c421da1cc49cfdfc91e15aed96327b138be3"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b947b56e9279adb7058832f2dc45d6f2e14fe616f61a836cd4966b58633f113d"
+hash = "d0fcec0b330a6a803fd106fe2671af31a253288691c95aea242992417d0595a6"
 metafile = true
 
 [[files]]
@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c094ede18ebc373e67a3cd70afa07ede4cd5e21dc1194bc4f0483fb186b5a09b"
+hash = "90ecd66066f1991fb96ba4b3f4fc18d36ef1b6de7875e270d768de957158f735"
 metafile = true
 
 [[files]]
