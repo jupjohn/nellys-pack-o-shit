@@ -359,6 +359,11 @@ hash = "4def8e4f66bb4b0b526d451e032282195c88d3dc8f623138e79716876f60700f"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "d3ca52f88029ea7457b7bf4e2567ef0d4351585225787b2d6493d5f92f952bc3"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "0cbe0af05dbc18f8a45611d3f87d5c9a8d7c545f9e0422031021e54674bf421c"
 metafile = true
