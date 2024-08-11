@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c9435679b7ef15534259a98c8db497fcfdeed7a01e0c85be389dd1d84236af58"
+hash = "84b83bc893210bd0f526ad898a7f5bf048f3045ee7b68b743fa9a0b70fd8c6bb"
 
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
