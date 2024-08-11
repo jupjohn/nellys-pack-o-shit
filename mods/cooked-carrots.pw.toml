@@ -1,13 +1,13 @@
 name = "Cooked Carrots"
-filename = "cookedcarrots-1.21-1-fabric.jar"
+filename = "cookedcarrots-1.21.1-1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bl3JrwOb/versions/H9x1gBax/cookedcarrots-1.21-1-fabric.jar"
+url = "https://cdn.modrinth.com/data/Bl3JrwOb/versions/ehDBPT0N/cookedcarrots-1.21.1-1-fabric.jar"
 hash-format = "sha1"
-hash = "87bc7c30b7f8408b653b5e4258b9e53d0a8daa1f"
+hash = "11f8a3a54a891f8fd519c2a63df8114db9a5672d"
 
 [update]
 [update.modrinth]
 mod-id = "Bl3JrwOb"
-version = "H9x1gBax"
+version = "ehDBPT0N"

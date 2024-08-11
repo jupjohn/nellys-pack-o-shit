@@ -3,11 +3,11 @@ filename = "danger_close-merged-1.21-3.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VtVhdIEA/versions/7etczQdZ/danger_close-merged-1.21-3.1.1.jar"
+url = "https://cdn.modrinth.com/data/VtVhdIEA/versions/Du2ekUNl/danger_close-merged-1.21-3.1.1.jar"
 hash-format = "sha1"
-hash = "984d09d66bf7949d787b6a07af3c63030f8137bf"
+hash = "4416c24749dcf33d493a17a66ddfdb63ffe0cda0"
 
 [update]
 [update.modrinth]
 mod-id = "VtVhdIEA"
-version = "7etczQdZ"
+version = "Du2ekUNl"
