@@ -444,6 +444,11 @@ hash = "72acc0c012c32239b33b9dd388b0144f8b59328b666cd81e1977bf5a23bf1f33"
 metafile = true
 
 [[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "3b626c073e670bc9483066c5714c428b0c783e05bfaa0247c32064e8c928764f"
+metafile = true
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "d375db26ce2e80c060643172b40659e48c0128f7efa4f359d1fa9864f57f32e6"
 metafile = true
