@@ -1,0 +1,13 @@
+name = "Better Babies"
+filename = "better-babies-0.7.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W9qgAZfz/versions/UrVbhPBD/better-babies-0.7.12.jar"
+hash-format = "sha1"
+hash = "f23fe278e26540a1878b84e9f6e29d7b1906ec59"
+
+[update]
+[update.modrinth]
+mod-id = "W9qgAZfz"
+version = "UrVbhPBD"
