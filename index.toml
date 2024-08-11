@@ -254,6 +254,11 @@ hash = "f3620beedfbb7e460cc3b69ea5ccb6125cd97c2c1ace4baebc1eecc60fafadbb"
 metafile = true
 
 [[files]]
+file = "mods/custom-portals.pw.toml"
+hash = "fde7ff1981068d9b8c5c2480c870eb38733e7d53f38979271530f56349735f61"
+metafile = true
+
+[[files]]
 file = "mods/danger-close.pw.toml"
 hash = "a5465783a13a316ecbfd7ec547d93a01114e67bad713ecfcf67c7e7ce29b41cc"
 metafile = true
