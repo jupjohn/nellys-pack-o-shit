@@ -1,0 +1,13 @@
+name = "Builders Dream"
+filename = "builders-dream-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jOIgZdUe/versions/MKEfBhMg/builders-dream-1.1.jar"
+hash-format = "sha1"
+hash = "f8a67e696f28443c21490d4746ba5cc97e6a30fa"
+
+[update]
+[update.modrinth]
+mod-id = "jOIgZdUe"
+version = "MKEfBhMg"
