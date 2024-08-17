@@ -1,13 +1,13 @@
 name = "More Fletching Tables"
-filename = "MoreFletchingTables-1.5.6+1.21-Fabric.jar"
+filename = "MoreFletchingTables-1.5.7+1.21-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8TnTa9Ui/versions/LRXnwzTN/MoreFletchingTables-1.5.6%2B1.21-Fabric.jar"
+url = "https://cdn.modrinth.com/data/8TnTa9Ui/versions/mJ0LaHfc/MoreFletchingTables-1.5.7%2B1.21-Fabric.jar"
 hash-format = "sha1"
-hash = "ff8d2077e6d0555c1b5d314eb4046e1184641a49"
+hash = "27f9188989b0a3e9b379fdfb9ec3b010e4585ca4"
 
 [update]
 [update.modrinth]
 mod-id = "8TnTa9Ui"
-version = "LRXnwzTN"
+version = "mJ0LaHfc"

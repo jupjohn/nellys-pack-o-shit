@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "3fc955231e6029c4d090e67565796aff1c2186c407d721a4aa24ca732bf253d7"
+hash = "8550d575b7a5a11ae5d19274e01e815ecb78df80bfd0c3af496389877dc52b6b"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
+hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
+hash = "281e2d541c2ab54e3bc6f0e5973205a3cf12074afeea89721a61b72192fe0d2b"
 metafile = true
 
 [[files]]
@@ -225,17 +225,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
+hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c6564e6bd7f9fef3ac5d07340b09df6529f807ad358bf8156f05d6fc9a4f751b"
+hash = "901e954cfcd2fcb7928b95959c7688fa0b210c6ad67d0f3f2f7e54ee939c839c"
 metafile = true
 
 [[files]]
 file = "mods/connectiblechains.pw.toml"
-hash = "70a863bf0fed7bda0d92161d63d90c450f7174643edda06ea3eff9d9deb4d6a8"
+hash = "c7b80e3861d63423cfb48fb22c6fe5d7b819bd788ba96bc513ee75f93132e99e"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "1fd7fbb51edd83680cce542b7569838496f4e33a48c3340f69774ccf162a570a"
+hash = "02e0c56861a6550ef7e25540864951fb7d29eb628d9ef57e79a37e3b7bea5684"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "d375db26ce2e80c060643172b40659e48c0128f7efa4f359d1fa9864f57f32e6"
+hash = "87ab18ada29910b7c4fed056fc568193062ef08c3d7a35fd76d33432f13df4e1"
 metafile = true
 
 [[files]]
@@ -460,12 +460,12 @@ metafile = true
 
 [[files]]
 file = "mods/lightweight-inventory-sorting.pw.toml"
-hash = "e93f0a28ee45bcac0650992d030c202949fe92e85e9f6d2223e2580bee267754"
+hash = "5c5203fe9d1f40c5b8259df801126d381fc9d4ef20d17af19881611ad530cd58"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-barrel-variants.pw.toml"
-hash = "abd5020c94e68197ee9ddedf0fab91a42c79c0231e505033b702b7a06e3fa587"
+hash = "1824d0793f9aadc835926803d10bd94d73b2619e8b6a2781539afa4e4aed9a16"
 metafile = true
 
 [[files]]
@@ -575,12 +575,12 @@ metafile = true
 
 [[files]]
 file = "mods/more-chiseled-bookshelf-variants.pw.toml"
-hash = "dae23bf7a123e06c73ce99af498320377efb6db6e2c88848fb19e32b46bf6fc0"
+hash = "6c2973663f7db9325c763f5f4ec672da6d4aec325124fa862c6c3e01ece731f8"
 metafile = true
 
 [[files]]
 file = "mods/more-composter-variants.pw.toml"
-hash = "f444f1df6cc1c3a740e2aafb8d67acb2defe0f24cf8780719515b6b89f14ab11"
+hash = "d35157ccb9623507d1b6ef71defea4bc18f1a10cccd5908ad25ff16bff8706ba"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-fletching-tables.pw.toml"
-hash = "c4ab1a4703a01a5bf082ba173c4569dc5ce2aa17fc6dea2fc902291f94516cca"
+hash = "5ceaa6f08e8ecbd60c50e24f1c5e620f25c862026c6b7503e8082de5cc0eac27"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-lectern-variants.pw.toml"
-hash = "65a2ffa1605fefabdf66fb2209c87057d40cbc4d9cbbfc29029f6a6687ab94fb"
+hash = "289691f931feb90145c6f4a5ee39778e390c2a7f04cef416a3be08d4e97c3211"
 metafile = true
 
 [[files]]
@@ -665,12 +665,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "8b50d547b25eea37fc02935410696d0d286f836622fefee4d1e3c6188d098e5c"
+hash = "786742202cd112bf82f376e06e4bb8638b421d54cdf614e01f00828178d7efd6"
 metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "1092ad10e827731147bc37ea468aaea99492970358d61b793f53406e0008f212"
+hash = "3f90f2cfc7fbc623c762f87414f70c2d60b3fd4325d8b76a25ec35d82b2634c5"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c795d544fcda72731291a99be352653af461c99fd86edabd12e1f0b6ab88c3e1"
+hash = "c819a9e822059da6fecbeaf4c05f13c8e9c2f4e6bc33dc445dce6b67a1ef0ea8"
 metafile = true
 
 [[files]]
@@ -730,12 +730,12 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "9044978b9866d4cd1a1b5f5f5cf4b3458642213fb69d238ffa2812af4d0e7f3b"
+hash = "f8a4f0396ba5f97891672183e53f33aa2c3a5c09733e7f32ebef4b6b1e5e6ca0"
 metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
-hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+hash = "e3fb99dcf245b19c4add224893b8cd342c7b3db00c0f708fef9ca368b1a2d94b"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "766ba910db4aae764c94d863a1d0e85d25d2c0a4b521059d98de2f19e306cc20"
+hash = "d19c35dc1e826fca74978fa6648c8725a8584a52660087d26fb214ba5f79ab2f"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2d868b98d488238e0dddd52b150a6578e8476eb7bcf107c5ab25096741112f05"
+hash = "1a4a50480745c308e0cb26a7652ef356bd768ddd43560d7142f4a322743a6fec"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "394ae6dd9073824e8f8ca8af48392bead324aa0b1e613962adff8c36c634ac9f"
+hash = "748515e298d9becf41c0b3843d00c49929bb7be71e7eb0d7ddc0c1de97ada19e"
 metafile = true
 
 [[files]]
